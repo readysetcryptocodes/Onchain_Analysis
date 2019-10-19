@@ -24,7 +24,7 @@ To help build out the skills of everyone in the RSC community in this emerging f
 
 All data is obtained from Coinmetrics.io as a .csv download and all you need to do to update the charts is overwrite the attached csv file with the latest data. It is recommended to use Microsoft Excel to access the sheet as it has a superior charting package to Google sheets.
 
-The files are located in the RSC shared drive [here](https://drive.google.com/drive/folders/1WPaODMcshNkDyzK5zpk4uXFFJh0cPLQB)
+The files are located in the RSC github [here](https://github.com/readysetcryptocodes/Onchain_Analysis/tree/master/onchain_analysis_spreadsheet)
 
 ## Market Overview
 The best way to demonstrate how to read on-chain indicators is just to dive right in and talk through what is going on with today’s market.
